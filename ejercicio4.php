@@ -4,7 +4,7 @@
 //Complejidad: BAJA (1 punto)
 
 $i = 1;
-while ($i  < 10) {
+while ($i  < 10); {
     // Tu código aquí
     echo "$i , , , , , , , , ";
     
